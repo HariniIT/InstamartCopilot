@@ -1,0 +1,14 @@
+Missing Item Refund Policy
+
+
+INSTAMART MISSING ITEM REFUND POLICY
+
+1. Customers can report missing items from their order.
+2. Customers must provide the order ID.
+3. The support team should compare the ordered items with delivery records.
+4. Verified missing items may qualify for a partial refund.
+5. The refund amount depends on the missing item's price.
+6. Multiple missing item complaints require manual verification.
+7. Unresolved cases must be escalated to human support.
+
+These are demonstration policies for the Instamart Copilot project.

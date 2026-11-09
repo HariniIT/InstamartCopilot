@@ -1,0 +1,14 @@
+Refund Escalation Policy
+
+
+INSTAMART REFUND ESCALATION POLICY
+
+1. Unverified refund requests must be sent to human support.
+2. High-priority customer complaints should be reviewed quickly.
+3. Repeated payment failures require manual investigation.
+4. Customers should receive an explanation of escalation status.
+5. The AI assistant must not invent refund approval decisions.
+6. The system should maintain a record of customer complaints.
+7. Human support has final authority over unresolved refund cases.
+
+These are demonstration policies for the Instamart Copilot project.

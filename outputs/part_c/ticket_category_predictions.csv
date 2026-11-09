@@ -1,0 +1,241 @@
+ticket_index,actual_category,predicted_category
+1123,Delivery,Delivery
+839,Product Quality,Product Quality
+442,Account,Account
+740,Account,Account
+1012,Delivery,Delivery
+94,Payment,Payment
+104,Account,Account
+472,Refund,Refund
+765,Product Quality,Product Quality
+991,Delivery,Delivery
+313,Product Quality,Product Quality
+187,Delivery,Delivery
+1199,Payment,Payment
+377,Payment,Payment
+577,Delivery,Delivery
+227,Payment,Payment
+510,Product Quality,Product Quality
+573,Delivery,Delivery
+370,Delivery,Delivery
+949,Delivery,Delivery
+766,Product Quality,Product Quality
+340,Account,Account
+996,Account,Account
+1150,Delivery,Delivery
+814,Payment,Payment
+610,Account,Account
+486,Refund,Refund
+937,Payment,Payment
+333,Account,Account
+999,Delivery,Delivery
+470,Delivery,Delivery
+736,Refund,Refund
+218,Delivery,Delivery
+349,Product Quality,Product Quality
+299,Product Quality,Product Quality
+11,Refund,Refund
+544,Product Quality,Product Quality
+924,Delivery,Delivery
+290,Refund,Refund
+484,Delivery,Delivery
+1024,Product Quality,Product Quality
+1029,Refund,Refund
+471,Refund,Refund
+855,Delivery,Delivery
+655,Refund,Refund
+6,Refund,Refund
+665,Refund,Refund
+121,Refund,Refund
+438,Delivery,Delivery
+868,Delivery,Delivery
+1035,Delivery,Delivery
+1135,Account,Account
+500,Delivery,Delivery
+328,Refund,Refund
+342,Refund,Refund
+639,Payment,Payment
+899,Payment,Payment
+1061,Product Quality,Product Quality
+22,Product Quality,Product Quality
+0,Refund,Refund
+962,Product Quality,Product Quality
+485,Refund,Refund
+283,Refund,Refund
+232,Delivery,Delivery
+1167,Delivery,Delivery
+564,Payment,Payment
+317,Account,Account
+773,Payment,Payment
+657,Product Quality,Product Quality
+400,Refund,Refund
+185,Payment,Payment
+494,Payment,Payment
+795,Delivery,Delivery
+55,Payment,Payment
+1198,Delivery,Delivery
+727,Delivery,Delivery
+889,Product Quality,Product Quality
+694,Payment,Payment
+1053,Delivery,Delivery
+578,Delivery,Delivery
+42,Refund,Refund
+1156,Account,Account
+546,Delivery,Delivery
+216,Delivery,Delivery
+1118,Payment,Payment
+648,Account,Account
+1184,Product Quality,Product Quality
+682,Refund,Refund
+857,Delivery,Delivery
+1058,Payment,Payment
+617,Payment,Payment
+900,Delivery,Delivery
+621,Refund,Refund
+347,Refund,Refund
+378,Delivery,Delivery
+131,Payment,Payment
+178,Payment,Payment
+1008,Delivery,Delivery
+957,Account,Account
+1062,Payment,Payment
+1014,Payment,Payment
+913,Refund,Refund
+284,Refund,Refund
+599,Product Quality,Product Quality
+1038,Product Quality,Product Quality
+1042,Product Quality,Product Quality
+1009,Account,Account
+364,Account,Account
+248,Account,Account
+513,Payment,Payment
+792,Payment,Payment
+556,Delivery,Delivery
+643,Refund,Refund
+867,Delivery,Delivery
+970,Delivery,Delivery
+842,Refund,Refund
+155,Account,Account
+208,Delivery,Delivery
+76,Product Quality,Product Quality
+240,Product Quality,Product Quality
+585,Product Quality,Product Quality
+768,Refund,Refund
+456,Payment,Payment
+798,Account,Account
+417,Payment,Payment
+884,Payment,Payment
+1186,Account,Account
+310,Delivery,Delivery
+619,Delivery,Delivery
+343,Refund,Refund
+354,Product Quality,Product Quality
+806,Product Quality,Product Quality
+1160,Payment,Payment
+698,Product Quality,Product Quality
+750,Delivery,Delivery
+396,Account,Account
+1131,Delivery,Delivery
+480,Product Quality,Product Quality
+437,Delivery,Delivery
+225,Product Quality,Product Quality
+282,Refund,Refund
+371,Account,Account
+524,Account,Account
+650,Account,Account
+281,Payment,Payment
+557,Refund,Refund
+951,Product Quality,Product Quality
+1037,Account,Account
+801,Delivery,Delivery
+31,Refund,Refund
+326,Product Quality,Product Quality
+1153,Payment,Payment
+1193,Delivery,Delivery
+946,Payment,Payment
+368,Delivery,Delivery
+681,Refund,Refund
+926,Payment,Payment
+428,Account,Account
+568,Refund,Refund
+1189,Payment,Payment
+308,Refund,Refund
+1148,Refund,Refund
+1010,Delivery,Delivery
+632,Account,Account
+30,Refund,Refund
+811,Refund,Refund
+1129,Delivery,Delivery
+978,Delivery,Delivery
+128,Refund,Refund
+1143,Delivery,Delivery
+601,Refund,Refund
+542,Account,Account
+1076,Delivery,Delivery
+1108,Account,Account
+1138,Product Quality,Product Quality
+1122,Delivery,Delivery
+481,Delivery,Delivery
+783,Payment,Payment
+163,Account,Account
+329,Product Quality,Product Quality
+466,Product Quality,Product Quality
+1043,Payment,Payment
+211,Refund,Refund
+876,Product Quality,Product Quality
+656,Refund,Refund
+463,Payment,Payment
+711,Refund,Refund
+1078,Product Quality,Product Quality
+186,Payment,Payment
+1179,Refund,Refund
+496,Product Quality,Product Quality
+738,Delivery,Delivery
+1091,Product Quality,Product Quality
+180,Product Quality,Product Quality
+673,Payment,Payment
+1168,Payment,Payment
+383,Delivery,Delivery
+1172,Product Quality,Product Quality
+797,Delivery,Delivery
+664,Delivery,Delivery
+20,Account,Account
+712,Refund,Refund
+154,Delivery,Delivery
+469,Delivery,Delivery
+620,Account,Account
+1114,Delivery,Delivery
+478,Product Quality,Product Quality
+495,Delivery,Delivery
+745,Refund,Refund
+171,Product Quality,Product Quality
+793,Delivery,Delivery
+569,Product Quality,Product Quality
+816,Payment,Payment
+700,Payment,Payment
+1089,Payment,Payment
+529,Account,Account
+794,Account,Account
+312,Account,Account
+702,Account,Account
+974,Payment,Payment
+1116,Refund,Refund
+50,Refund,Refund
+936,Account,Account
+124,Refund,Refund
+80,Payment,Payment
+969,Payment,Payment
+445,Payment,Payment
+125,Payment,Payment
+379,Delivery,Delivery
+608,Payment,Payment
+384,Product Quality,Product Quality
+520,Payment,Payment
+441,Product Quality,Product Quality
+613,Payment,Payment
+566,Delivery,Delivery
+1178,Account,Account
+774,Payment,Payment
+743,Refund,Refund
+5,Delivery,Delivery
+1147,Account,Account

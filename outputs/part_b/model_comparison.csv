@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Dummy Baseline,0.885,0.885,1.0,0.939
+Logistic Regression,0.8,0.887,0.887,0.887
+Random Forest,0.845,0.884,0.949,0.916

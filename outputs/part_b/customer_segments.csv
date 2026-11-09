@@ -1,0 +1,1001 @@
+customer_id,age,city,total_orders,total_spent,membership,cluster,segment
+1,56,Chennai,23,12358,Gold,2,High Value
+2,46,Madurai,26,16090,Gold,2,High Value
+3,32,Trichy,34,16522,Silver,1,Regular
+4,60,Madurai,46,10836,Regular,2,High Value
+5,25,Chennai,34,4975,Silver,1,Regular
+6,38,Coimbatore,29,17740,Silver,2,High Value
+7,56,Chennai,4,11282,Gold,2,High Value
+8,36,Chennai,17,2296,Gold,0,Low Value
+9,40,Chennai,35,7265,Regular,0,Low Value
+10,28,Chennai,13,16097,Gold,1,Regular
+11,28,Coimbatore,41,14315,Gold,1,Regular
+12,41,Coimbatore,39,401,Silver,0,Low Value
+13,53,Madurai,15,17130,Gold,2,High Value
+14,57,Trichy,29,14671,Regular,2,High Value
+15,41,Coimbatore,29,10051,Silver,2,High Value
+16,20,Coimbatore,11,10873,Regular,1,Regular
+17,39,Trichy,32,16240,Silver,2,High Value
+18,19,Coimbatore,2,13157,Gold,1,Regular
+19,41,Chennai,47,12600,Silver,2,High Value
+20,61,Chennai,14,16021,Silver,2,High Value
+21,47,Trichy,20,11970,Gold,2,High Value
+22,55,Madurai,22,4182,Gold,0,Low Value
+23,19,Madurai,11,13818,Regular,1,Regular
+24,38,Trichy,27,10617,Regular,1,Regular
+25,50,Trichy,3,3854,Gold,0,Low Value
+26,29,Chennai,17,1824,Gold,0,Low Value
+27,39,Madurai,44,1476,Gold,0,Low Value
+28,61,Coimbatore,28,8806,Silver,2,High Value
+29,42,Chennai,29,8994,Silver,0,Low Value
+30,44,Trichy,21,18137,Silver,2,High Value
+31,59,Madurai,47,18550,Gold,2,High Value
+32,45,Coimbatore,16,16506,Regular,2,High Value
+33,33,Coimbatore,37,18944,Gold,1,Regular
+34,32,Chennai,20,6026,Silver,1,Regular
+35,64,Madurai,6,6351,Silver,0,Low Value
+36,61,Madurai,19,9596,Gold,2,High Value
+37,20,Trichy,5,3400,Gold,1,Regular
+38,54,Madurai,3,8653,Silver,0,Low Value
+39,24,Madurai,1,3827,Silver,1,Regular
+40,38,Chennai,38,16998,Silver,2,High Value
+41,26,Madurai,15,16932,Gold,1,Regular
+42,56,Coimbatore,34,6119,Silver,0,Low Value
+43,35,Chennai,35,15563,Silver,1,Regular
+44,21,Chennai,49,10147,Regular,1,Regular
+45,42,Trichy,25,11854,Gold,2,High Value
+46,31,Madurai,24,2620,Regular,0,Low Value
+47,26,Trichy,12,3181,Regular,0,Low Value
+48,43,Coimbatore,18,1528,Silver,0,Low Value
+49,19,Chennai,15,4067,Gold,1,Regular
+50,37,Chennai,44,6545,Silver,0,Low Value
+51,45,Chennai,16,14666,Gold,2,High Value
+52,64,Coimbatore,27,14142,Regular,2,High Value
+53,24,Coimbatore,8,11429,Gold,1,Regular
+54,61,Trichy,46,2259,Silver,0,Low Value
+55,25,Trichy,25,5232,Silver,1,Regular
+56,64,Trichy,17,19031,Silver,2,High Value
+57,52,Madurai,29,19463,Gold,2,High Value
+58,31,Chennai,8,15033,Regular,1,Regular
+59,34,Chennai,15,10573,Regular,1,Regular
+60,53,Trichy,27,19133,Gold,2,High Value
+61,57,Chennai,46,10905,Silver,2,High Value
+62,21,Trichy,7,3183,Regular,1,Regular
+63,19,Madurai,3,17521,Silver,1,Regular
+64,23,Madurai,29,14044,Gold,1,Regular
+65,59,Coimbatore,44,19973,Silver,2,High Value
+66,21,Madurai,24,7704,Regular,1,Regular
+67,46,Trichy,3,15479,Regular,2,High Value
+68,35,Madurai,20,19118,Silver,2,High Value
+69,43,Coimbatore,46,4083,Gold,0,Low Value
+70,61,Chennai,15,1878,Silver,0,Low Value
+71,51,Trichy,25,5210,Gold,0,Low Value
+72,27,Chennai,30,12187,Silver,1,Regular
+73,53,Coimbatore,14,17608,Regular,2,High Value
+74,31,Coimbatore,7,17181,Gold,1,Regular
+75,48,Coimbatore,17,2279,Gold,0,Low Value
+76,32,Chennai,44,9696,Gold,1,Regular
+77,25,Chennai,20,5351,Regular,1,Regular
+78,31,Chennai,36,9335,Silver,1,Regular
+79,40,Chennai,9,18413,Regular,2,High Value
+80,57,Coimbatore,38,14971,Gold,2,High Value
+81,38,Coimbatore,48,1113,Silver,0,Low Value
+82,33,Trichy,22,16710,Regular,1,Regular
+83,62,Trichy,2,1928,Gold,0,Low Value
+84,35,Chennai,24,8009,Gold,1,Regular
+85,64,Madurai,8,5688,Regular,0,Low Value
+86,41,Madurai,11,13209,Regular,2,High Value
+87,43,Coimbatore,13,2123,Regular,0,Low Value
+88,42,Coimbatore,17,14637,Gold,2,High Value
+89,62,Coimbatore,8,5991,Regular,0,Low Value
+90,58,Trichy,21,1180,Gold,0,Low Value
+91,46,Trichy,18,5136,Regular,0,Low Value
+92,32,Coimbatore,30,15479,Gold,1,Regular
+93,62,Coimbatore,18,10922,Gold,2,High Value
+94,18,Coimbatore,46,2663,Silver,1,Regular
+95,42,Madurai,47,3392,Regular,0,Low Value
+96,24,Trichy,31,3686,Regular,1,Regular
+97,26,Madurai,38,16187,Gold,1,Regular
+98,41,Madurai,32,16200,Gold,2,High Value
+99,18,Coimbatore,11,6743,Gold,1,Regular
+100,61,Coimbatore,45,4059,Silver,0,Low Value
+101,25,Chennai,25,11105,Silver,1,Regular
+102,41,Chennai,33,10875,Gold,2,High Value
+103,28,Madurai,38,261,Regular,0,Low Value
+104,34,Trichy,41,16129,Regular,1,Regular
+105,25,Coimbatore,8,17077,Silver,1,Regular
+106,52,Coimbatore,11,14326,Silver,2,High Value
+107,52,Madurai,22,11254,Gold,2,High Value
+108,50,Chennai,24,12180,Regular,2,High Value
+109,22,Trichy,41,3490,Gold,1,Regular
+110,59,Chennai,17,6097,Silver,0,Low Value
+111,56,Chennai,12,12793,Regular,2,High Value
+112,58,Chennai,46,17147,Regular,2,High Value
+113,45,Chennai,32,9424,Silver,0,Low Value
+114,24,Coimbatore,15,641,Gold,0,Low Value
+115,26,Coimbatore,16,5193,Gold,1,Regular
+116,25,Chennai,22,13528,Regular,1,Regular
+117,29,Trichy,28,11266,Silver,1,Regular
+118,51,Madurai,20,17351,Regular,2,High Value
+119,50,Trichy,33,16163,Silver,2,High Value
+120,40,Trichy,10,10358,Gold,2,High Value
+121,41,Trichy,40,16144,Silver,2,High Value
+122,54,Chennai,32,5569,Gold,0,Low Value
+123,52,Coimbatore,33,6356,Silver,0,Low Value
+124,61,Trichy,2,10820,Regular,2,High Value
+125,57,Chennai,33,1269,Gold,0,Low Value
+126,39,Trichy,33,930,Regular,0,Low Value
+127,44,Trichy,41,1751,Regular,0,Low Value
+128,52,Chennai,13,17620,Gold,2,High Value
+129,18,Coimbatore,30,19294,Gold,1,Regular
+130,52,Coimbatore,33,9618,Regular,2,High Value
+131,54,Madurai,13,13358,Regular,2,High Value
+132,64,Chennai,26,16284,Regular,2,High Value
+133,31,Madurai,22,1119,Regular,0,Low Value
+134,20,Madurai,39,10128,Gold,1,Regular
+135,18,Madurai,2,12548,Gold,1,Regular
+136,22,Coimbatore,38,12585,Regular,1,Regular
+137,43,Chennai,39,1383,Silver,0,Low Value
+138,31,Madurai,26,17143,Silver,1,Regular
+139,56,Chennai,46,18494,Gold,2,High Value
+140,44,Chennai,15,1833,Regular,0,Low Value
+141,26,Coimbatore,34,18609,Regular,1,Regular
+142,32,Madurai,42,18655,Gold,1,Regular
+143,32,Madurai,44,16330,Silver,1,Regular
+144,43,Chennai,49,14572,Silver,2,High Value
+145,59,Trichy,40,12989,Silver,2,High Value
+146,30,Coimbatore,11,3571,Gold,0,Low Value
+147,49,Coimbatore,3,9128,Silver,0,Low Value
+148,56,Coimbatore,6,8429,Gold,0,Low Value
+149,49,Coimbatore,9,2197,Gold,0,Low Value
+150,21,Madurai,6,14182,Regular,1,Regular
+151,47,Madurai,9,14030,Silver,2,High Value
+152,54,Trichy,39,10177,Gold,2,High Value
+153,40,Coimbatore,31,6497,Silver,0,Low Value
+154,56,Coimbatore,32,2857,Silver,0,Low Value
+155,62,Chennai,41,18384,Regular,2,High Value
+156,32,Madurai,12,19094,Silver,1,Regular
+157,60,Coimbatore,8,17933,Regular,2,High Value
+158,46,Trichy,8,5117,Gold,0,Low Value
+159,53,Trichy,28,16470,Silver,2,High Value
+160,30,Madurai,20,8099,Gold,1,Regular
+161,49,Trichy,47,10295,Silver,2,High Value
+162,24,Trichy,7,2196,Gold,0,Low Value
+163,39,Madurai,11,15533,Silver,2,High Value
+164,45,Coimbatore,20,10695,Silver,2,High Value
+165,19,Coimbatore,16,16041,Silver,1,Regular
+166,59,Trichy,4,19815,Silver,2,High Value
+167,62,Trichy,6,15178,Silver,2,High Value
+168,23,Coimbatore,22,5205,Silver,1,Regular
+169,45,Madurai,26,19462,Silver,2,High Value
+170,45,Trichy,3,2939,Silver,0,Low Value
+171,61,Chennai,41,3484,Silver,0,Low Value
+172,61,Madurai,42,10951,Gold,2,High Value
+173,37,Trichy,14,10153,Regular,1,Regular
+174,47,Trichy,11,13593,Silver,2,High Value
+175,28,Chennai,18,17169,Regular,1,Regular
+176,45,Chennai,12,14239,Silver,2,High Value
+177,42,Coimbatore,23,7631,Silver,0,Low Value
+178,56,Madurai,12,4383,Gold,0,Low Value
+179,50,Madurai,13,7836,Gold,0,Low Value
+180,18,Coimbatore,25,7810,Regular,1,Regular
+181,44,Madurai,45,1719,Gold,0,Low Value
+182,30,Madurai,19,14075,Gold,1,Regular
+183,58,Madurai,46,12935,Regular,2,High Value
+184,20,Madurai,36,15361,Gold,1,Regular
+185,56,Madurai,45,1531,Silver,0,Low Value
+186,23,Chennai,8,9167,Regular,1,Regular
+187,25,Madurai,29,4813,Regular,1,Regular
+188,44,Chennai,32,9657,Silver,2,High Value
+189,26,Madurai,44,9535,Gold,1,Regular
+190,54,Coimbatore,18,5098,Regular,0,Low Value
+191,50,Trichy,6,262,Regular,0,Low Value
+192,59,Chennai,18,2074,Silver,0,Low Value
+193,61,Madurai,19,19775,Silver,2,High Value
+194,41,Coimbatore,22,8561,Gold,0,Low Value
+195,32,Trichy,37,17115,Regular,1,Regular
+196,49,Chennai,32,17389,Gold,2,High Value
+197,49,Trichy,41,2114,Gold,0,Low Value
+198,41,Coimbatore,3,9933,Silver,0,Low Value
+199,58,Chennai,28,7996,Regular,0,Low Value
+200,29,Trichy,10,304,Regular,0,Low Value
+201,56,Madurai,35,17065,Regular,2,High Value
+202,19,Chennai,29,9132,Silver,1,Regular
+203,20,Trichy,15,5447,Silver,1,Regular
+204,54,Coimbatore,33,2743,Silver,0,Low Value
+205,34,Coimbatore,7,8117,Silver,1,Regular
+206,19,Chennai,12,18781,Silver,1,Regular
+207,19,Trichy,49,17358,Regular,1,Regular
+208,45,Chennai,30,5660,Gold,0,Low Value
+209,40,Chennai,21,15992,Regular,2,High Value
+210,54,Trichy,31,14631,Gold,2,High Value
+211,49,Trichy,24,17173,Silver,2,High Value
+212,50,Madurai,20,4100,Gold,0,Low Value
+213,18,Trichy,37,14389,Regular,1,Regular
+214,36,Coimbatore,4,17155,Regular,2,High Value
+215,19,Chennai,28,8027,Gold,1,Regular
+216,61,Chennai,44,15662,Silver,2,High Value
+217,43,Coimbatore,20,1271,Silver,0,Low Value
+218,49,Trichy,24,12018,Regular,2,High Value
+219,23,Coimbatore,49,9235,Gold,1,Regular
+220,49,Coimbatore,32,6442,Silver,0,Low Value
+221,21,Madurai,41,17933,Silver,1,Regular
+222,28,Coimbatore,36,12029,Regular,1,Regular
+223,34,Chennai,34,2639,Silver,0,Low Value
+224,55,Coimbatore,36,4059,Gold,0,Low Value
+225,41,Chennai,2,13283,Regular,2,High Value
+226,22,Chennai,15,5532,Regular,1,Regular
+227,51,Chennai,34,18845,Gold,2,High Value
+228,23,Trichy,36,1853,Regular,1,Regular
+229,39,Madurai,6,18422,Silver,2,High Value
+230,28,Chennai,39,10223,Silver,1,Regular
+231,33,Chennai,42,16476,Gold,1,Regular
+232,50,Trichy,12,6688,Silver,0,Low Value
+233,26,Chennai,3,6404,Gold,1,Regular
+234,23,Coimbatore,45,7445,Gold,1,Regular
+235,33,Coimbatore,18,15452,Silver,1,Regular
+236,46,Madurai,40,697,Gold,0,Low Value
+237,20,Chennai,21,19546,Silver,1,Regular
+238,37,Trichy,15,2436,Regular,0,Low Value
+239,53,Coimbatore,33,9979,Regular,2,High Value
+240,36,Trichy,35,672,Gold,0,Low Value
+241,43,Trichy,26,7621,Silver,0,Low Value
+242,20,Coimbatore,8,6271,Silver,1,Regular
+243,36,Trichy,36,18574,Regular,2,High Value
+244,37,Coimbatore,48,14092,Regular,1,Regular
+245,49,Trichy,30,11961,Silver,2,High Value
+246,24,Coimbatore,23,12564,Gold,1,Regular
+247,58,Chennai,42,1733,Regular,0,Low Value
+248,50,Madurai,44,18001,Gold,2,High Value
+249,57,Coimbatore,14,12585,Gold,2,High Value
+250,56,Coimbatore,14,10949,Regular,2,High Value
+251,35,Madurai,2,3748,Gold,0,Low Value
+252,57,Coimbatore,37,15277,Gold,2,High Value
+253,18,Coimbatore,5,13240,Silver,1,Regular
+254,28,Trichy,38,18021,Gold,1,Regular
+255,45,Madurai,45,14457,Silver,2,High Value
+256,42,Chennai,41,13468,Regular,2,High Value
+257,40,Coimbatore,47,3237,Regular,0,Low Value
+258,48,Madurai,14,197,Silver,0,Low Value
+259,47,Trichy,39,11507,Regular,2,High Value
+260,59,Chennai,25,12822,Gold,2,High Value
+261,52,Madurai,20,13024,Gold,2,High Value
+262,24,Chennai,2,3850,Gold,1,Regular
+263,33,Chennai,39,8635,Regular,1,Regular
+264,43,Chennai,6,4766,Gold,0,Low Value
+265,19,Coimbatore,17,16109,Regular,1,Regular
+266,18,Coimbatore,25,17094,Gold,1,Regular
+267,29,Trichy,28,1827,Silver,0,Low Value
+268,22,Trichy,2,1954,Regular,0,Low Value
+269,54,Madurai,35,10900,Regular,2,High Value
+270,49,Trichy,37,5155,Gold,0,Low Value
+271,26,Chennai,5,10371,Regular,1,Regular
+272,58,Chennai,1,18808,Regular,2,High Value
+273,52,Coimbatore,40,12919,Silver,2,High Value
+274,36,Chennai,12,9469,Silver,1,Regular
+275,33,Madurai,36,9383,Gold,1,Regular
+276,20,Chennai,45,13271,Silver,1,Regular
+277,37,Chennai,23,5874,Gold,0,Low Value
+278,41,Madurai,47,6619,Gold,0,Low Value
+279,50,Trichy,31,11083,Gold,2,High Value
+280,41,Trichy,11,18233,Regular,2,High Value
+281,28,Madurai,10,15039,Silver,1,Regular
+282,25,Coimbatore,3,881,Gold,0,Low Value
+283,53,Chennai,14,16382,Silver,2,High Value
+284,55,Madurai,16,6923,Gold,0,Low Value
+285,57,Chennai,10,18589,Silver,2,High Value
+286,37,Coimbatore,29,7293,Silver,0,Low Value
+287,52,Chennai,10,2213,Gold,0,Low Value
+288,42,Madurai,12,16380,Regular,2,High Value
+289,52,Chennai,30,13665,Silver,2,High Value
+290,42,Trichy,41,10283,Regular,2,High Value
+291,46,Coimbatore,1,18061,Regular,2,High Value
+292,35,Coimbatore,5,9303,Gold,1,Regular
+293,63,Coimbatore,20,18758,Gold,2,High Value
+294,35,Madurai,8,15895,Gold,1,Regular
+295,19,Coimbatore,43,18910,Silver,1,Regular
+296,52,Trichy,12,13589,Gold,2,High Value
+297,33,Madurai,1,5646,Gold,0,Low Value
+298,58,Trichy,20,6952,Silver,0,Low Value
+299,53,Chennai,28,2651,Silver,0,Low Value
+300,50,Chennai,43,6511,Gold,0,Low Value
+301,21,Chennai,37,16491,Gold,1,Regular
+302,50,Chennai,47,19039,Gold,2,High Value
+303,31,Trichy,37,575,Gold,0,Low Value
+304,38,Madurai,12,10503,Regular,1,Regular
+305,37,Madurai,37,7339,Regular,0,Low Value
+306,25,Coimbatore,49,6810,Gold,1,Regular
+307,24,Trichy,49,8178,Regular,1,Regular
+308,20,Chennai,44,2385,Silver,1,Regular
+309,34,Trichy,28,5323,Regular,0,Low Value
+310,50,Coimbatore,47,13621,Regular,2,High Value
+311,29,Coimbatore,15,14989,Gold,1,Regular
+312,39,Trichy,6,7071,Regular,0,Low Value
+313,39,Trichy,44,11631,Regular,1,Regular
+314,63,Trichy,20,14821,Regular,2,High Value
+315,47,Madurai,14,19306,Regular,2,High Value
+316,55,Chennai,2,5043,Silver,0,Low Value
+317,55,Trichy,9,6630,Gold,0,Low Value
+318,62,Trichy,37,11216,Gold,2,High Value
+319,25,Trichy,20,358,Silver,0,Low Value
+320,44,Coimbatore,26,382,Regular,0,Low Value
+321,44,Coimbatore,29,14037,Silver,2,High Value
+322,51,Madurai,1,1998,Regular,0,Low Value
+323,38,Chennai,35,4235,Silver,0,Low Value
+324,47,Madurai,6,6729,Gold,0,Low Value
+325,50,Chennai,37,11268,Gold,2,High Value
+326,45,Coimbatore,5,19684,Gold,2,High Value
+327,64,Coimbatore,33,712,Regular,0,Low Value
+328,50,Coimbatore,49,14303,Regular,2,High Value
+329,22,Madurai,14,17171,Silver,1,Regular
+330,36,Trichy,12,2407,Silver,0,Low Value
+331,21,Trichy,42,7233,Gold,1,Regular
+332,52,Coimbatore,20,11305,Regular,2,High Value
+333,34,Trichy,24,6006,Silver,0,Low Value
+334,61,Trichy,43,2691,Regular,0,Low Value
+335,45,Madurai,34,15249,Regular,2,High Value
+336,47,Chennai,25,12250,Gold,2,High Value
+337,46,Coimbatore,29,7283,Gold,0,Low Value
+338,63,Coimbatore,39,10202,Regular,2,High Value
+339,23,Madurai,31,17153,Regular,1,Regular
+340,52,Madurai,47,1383,Regular,0,Low Value
+341,58,Trichy,43,1023,Regular,0,Low Value
+342,54,Coimbatore,23,1225,Gold,0,Low Value
+343,41,Chennai,44,1629,Silver,0,Low Value
+344,46,Madurai,38,8538,Gold,0,Low Value
+345,63,Chennai,20,16254,Silver,2,High Value
+346,48,Chennai,23,8104,Regular,0,Low Value
+347,52,Coimbatore,45,9852,Silver,2,High Value
+348,50,Coimbatore,16,10692,Gold,2,High Value
+349,38,Madurai,42,3964,Gold,0,Low Value
+350,49,Coimbatore,8,326,Regular,0,Low Value
+351,40,Coimbatore,21,15136,Gold,2,High Value
+352,50,Coimbatore,1,11839,Regular,2,High Value
+353,20,Chennai,8,16748,Gold,1,Regular
+354,35,Madurai,29,9687,Gold,1,Regular
+355,42,Trichy,32,11849,Regular,2,High Value
+356,59,Chennai,38,745,Silver,0,Low Value
+357,48,Coimbatore,5,16399,Gold,2,High Value
+358,20,Chennai,47,19474,Silver,1,Regular
+359,57,Coimbatore,22,13775,Gold,2,High Value
+360,63,Coimbatore,47,18988,Gold,2,High Value
+361,41,Chennai,34,11064,Gold,2,High Value
+362,49,Madurai,1,16187,Gold,2,High Value
+363,64,Coimbatore,26,13637,Silver,2,High Value
+364,39,Madurai,43,13369,Silver,1,Regular
+365,40,Trichy,10,9446,Gold,0,Low Value
+366,19,Coimbatore,30,687,Gold,1,Regular
+367,44,Madurai,18,12863,Silver,2,High Value
+368,59,Madurai,17,9277,Regular,2,High Value
+369,19,Trichy,26,4179,Regular,1,Regular
+370,43,Madurai,8,3448,Silver,0,Low Value
+371,34,Madurai,47,18199,Gold,1,Regular
+372,57,Trichy,40,10885,Gold,2,High Value
+373,50,Coimbatore,49,12428,Regular,2,High Value
+374,26,Madurai,12,6550,Regular,1,Regular
+375,60,Madurai,27,13330,Silver,2,High Value
+376,56,Madurai,8,5533,Regular,0,Low Value
+377,46,Chennai,25,1198,Silver,0,Low Value
+378,59,Trichy,46,7196,Regular,0,Low Value
+379,43,Chennai,4,18810,Regular,2,High Value
+380,52,Trichy,33,11539,Regular,2,High Value
+381,42,Coimbatore,1,9187,Gold,0,Low Value
+382,41,Coimbatore,19,16121,Gold,2,High Value
+383,30,Madurai,31,6516,Gold,1,Regular
+384,24,Trichy,16,7080,Regular,1,Regular
+385,53,Coimbatore,14,18158,Silver,2,High Value
+386,62,Trichy,48,11201,Silver,2,High Value
+387,37,Coimbatore,5,8050,Silver,0,Low Value
+388,18,Chennai,41,9222,Silver,1,Regular
+389,25,Coimbatore,26,12676,Gold,1,Regular
+390,63,Chennai,28,1189,Gold,0,Low Value
+391,33,Coimbatore,2,4678,Regular,0,Low Value
+392,31,Madurai,6,9227,Regular,1,Regular
+393,29,Chennai,9,10587,Silver,1,Regular
+394,40,Coimbatore,33,255,Gold,0,Low Value
+395,32,Madurai,41,2058,Silver,0,Low Value
+396,45,Chennai,25,10793,Regular,2,High Value
+397,51,Madurai,48,6444,Regular,0,Low Value
+398,19,Trichy,13,5879,Silver,1,Regular
+399,49,Trichy,9,3930,Regular,0,Low Value
+400,40,Chennai,13,9146,Silver,0,Low Value
+401,39,Coimbatore,31,9894,Gold,1,Regular
+402,42,Chennai,41,541,Silver,0,Low Value
+403,39,Madurai,11,14578,Gold,2,High Value
+404,39,Coimbatore,4,4728,Gold,0,Low Value
+405,59,Trichy,34,6470,Regular,0,Low Value
+406,23,Coimbatore,38,9628,Regular,1,Regular
+407,32,Trichy,46,17432,Regular,1,Regular
+408,60,Coimbatore,4,11665,Silver,2,High Value
+409,54,Coimbatore,38,8279,Silver,0,Low Value
+410,50,Coimbatore,19,16113,Regular,2,High Value
+411,25,Madurai,6,16943,Silver,1,Regular
+412,61,Madurai,34,492,Regular,0,Low Value
+413,61,Chennai,18,12230,Silver,2,High Value
+414,22,Chennai,13,18271,Gold,1,Regular
+415,56,Trichy,41,10549,Gold,2,High Value
+416,21,Madurai,23,17622,Regular,1,Regular
+417,23,Trichy,19,7518,Silver,1,Regular
+418,62,Chennai,45,2554,Silver,0,Low Value
+419,49,Trichy,11,17861,Gold,2,High Value
+420,47,Chennai,1,15323,Gold,2,High Value
+421,64,Madurai,24,6801,Regular,0,Low Value
+422,52,Coimbatore,7,2697,Gold,0,Low Value
+423,57,Madurai,25,241,Regular,0,Low Value
+424,33,Trichy,21,2759,Gold,0,Low Value
+425,30,Trichy,15,9131,Gold,1,Regular
+426,59,Madurai,1,15137,Silver,2,High Value
+427,47,Madurai,12,14070,Gold,2,High Value
+428,36,Chennai,7,5761,Gold,0,Low Value
+429,34,Trichy,15,6242,Regular,0,Low Value
+430,36,Trichy,21,12209,Gold,1,Regular
+431,45,Madurai,19,8887,Regular,0,Low Value
+432,43,Coimbatore,29,10196,Gold,2,High Value
+433,54,Trichy,25,8572,Gold,0,Low Value
+434,43,Coimbatore,33,16907,Regular,2,High Value
+435,40,Madurai,49,4349,Silver,0,Low Value
+436,26,Madurai,32,15049,Regular,1,Regular
+437,29,Chennai,49,1850,Regular,0,Low Value
+438,18,Trichy,35,18451,Regular,1,Regular
+439,18,Coimbatore,44,4188,Silver,1,Regular
+440,64,Chennai,38,15382,Gold,2,High Value
+441,51,Trichy,26,19430,Regular,2,High Value
+442,49,Chennai,11,9741,Regular,2,High Value
+443,42,Madurai,35,5175,Silver,0,Low Value
+444,57,Trichy,8,10512,Regular,2,High Value
+445,62,Chennai,46,15786,Gold,2,High Value
+446,18,Chennai,14,7330,Silver,1,Regular
+447,33,Coimbatore,10,15532,Gold,1,Regular
+448,56,Chennai,2,11102,Gold,2,High Value
+449,22,Trichy,46,14047,Silver,1,Regular
+450,39,Trichy,9,13786,Regular,2,High Value
+451,46,Coimbatore,3,18015,Gold,2,High Value
+452,20,Trichy,21,13174,Gold,1,Regular
+453,29,Madurai,26,19474,Gold,1,Regular
+454,43,Trichy,8,4593,Gold,0,Low Value
+455,33,Trichy,48,17417,Silver,1,Regular
+456,54,Chennai,2,1560,Silver,0,Low Value
+457,39,Chennai,6,14240,Gold,2,High Value
+458,46,Trichy,28,19207,Regular,2,High Value
+459,31,Coimbatore,29,10804,Gold,1,Regular
+460,45,Chennai,26,16769,Regular,2,High Value
+461,22,Coimbatore,25,16748,Gold,1,Regular
+462,64,Trichy,12,6916,Regular,0,Low Value
+463,47,Trichy,5,11739,Gold,2,High Value
+464,63,Madurai,34,14524,Regular,2,High Value
+465,22,Chennai,48,14065,Gold,1,Regular
+466,29,Trichy,37,18246,Gold,1,Regular
+467,33,Madurai,15,11340,Regular,1,Regular
+468,43,Chennai,44,140,Silver,0,Low Value
+469,43,Trichy,36,5927,Regular,0,Low Value
+470,38,Trichy,15,8359,Silver,0,Low Value
+471,56,Chennai,43,17471,Gold,2,High Value
+472,53,Chennai,48,14949,Regular,2,High Value
+473,50,Chennai,23,16332,Regular,2,High Value
+474,47,Trichy,6,7904,Regular,0,Low Value
+475,54,Trichy,46,19682,Silver,2,High Value
+476,40,Madurai,44,5474,Silver,0,Low Value
+477,27,Coimbatore,43,2624,Gold,1,Regular
+478,22,Chennai,45,9377,Silver,1,Regular
+479,53,Trichy,21,18963,Silver,2,High Value
+480,51,Trichy,23,9985,Gold,2,High Value
+481,48,Chennai,43,878,Regular,0,Low Value
+482,27,Coimbatore,16,1592,Regular,0,Low Value
+483,36,Chennai,47,17144,Gold,1,Regular
+484,49,Coimbatore,15,17832,Regular,2,High Value
+485,18,Trichy,25,13715,Silver,1,Regular
+486,22,Coimbatore,36,12232,Gold,1,Regular
+487,62,Madurai,11,10278,Gold,2,High Value
+488,21,Trichy,15,7951,Gold,1,Regular
+489,33,Madurai,4,16388,Regular,1,Regular
+490,41,Chennai,21,7256,Gold,0,Low Value
+491,33,Chennai,13,2144,Gold,0,Low Value
+492,19,Chennai,22,7468,Gold,1,Regular
+493,45,Coimbatore,19,13735,Regular,2,High Value
+494,49,Trichy,34,9268,Silver,2,High Value
+495,44,Chennai,14,17211,Gold,2,High Value
+496,37,Chennai,4,11428,Silver,1,Regular
+497,41,Trichy,48,13419,Regular,2,High Value
+498,29,Chennai,46,442,Regular,0,Low Value
+499,52,Madurai,27,1547,Regular,0,Low Value
+500,50,Trichy,29,6681,Regular,0,Low Value
+501,50,Trichy,47,11951,Silver,2,High Value
+502,60,Trichy,28,6417,Gold,0,Low Value
+503,54,Madurai,35,17010,Regular,2,High Value
+504,29,Trichy,8,10188,Regular,1,Regular
+505,20,Madurai,16,13046,Silver,1,Regular
+506,18,Trichy,42,16889,Silver,1,Regular
+507,50,Coimbatore,36,14667,Regular,2,High Value
+508,57,Chennai,30,14968,Gold,2,High Value
+509,27,Coimbatore,18,9865,Gold,1,Regular
+510,60,Chennai,2,12566,Regular,2,High Value
+511,61,Madurai,49,18330,Silver,2,High Value
+512,46,Coimbatore,13,17962,Regular,2,High Value
+513,30,Trichy,4,10687,Regular,1,Regular
+514,29,Chennai,26,871,Silver,0,Low Value
+515,48,Chennai,25,16400,Regular,2,High Value
+516,63,Coimbatore,30,8870,Regular,2,High Value
+517,19,Madurai,11,11193,Regular,1,Regular
+518,52,Coimbatore,7,13903,Silver,2,High Value
+519,40,Madurai,31,293,Gold,0,Low Value
+520,34,Madurai,44,2107,Gold,0,Low Value
+521,43,Chennai,10,17669,Silver,2,High Value
+522,25,Coimbatore,39,18878,Gold,1,Regular
+523,46,Coimbatore,13,11290,Regular,2,High Value
+524,43,Madurai,31,10084,Gold,2,High Value
+525,27,Coimbatore,7,9402,Regular,1,Regular
+526,43,Trichy,49,7529,Gold,0,Low Value
+527,51,Trichy,42,2361,Silver,0,Low Value
+528,58,Coimbatore,42,6816,Gold,0,Low Value
+529,24,Coimbatore,36,9021,Gold,1,Regular
+530,21,Madurai,20,4478,Gold,1,Regular
+531,62,Trichy,4,7915,Silver,0,Low Value
+532,28,Trichy,7,13878,Gold,1,Regular
+533,46,Chennai,1,19935,Silver,2,High Value
+534,53,Madurai,44,12828,Regular,2,High Value
+535,42,Chennai,45,10432,Gold,2,High Value
+536,38,Trichy,42,9936,Silver,1,Regular
+537,53,Madurai,47,2900,Silver,0,Low Value
+538,27,Coimbatore,13,8433,Gold,1,Regular
+539,54,Madurai,22,5510,Regular,0,Low Value
+540,26,Coimbatore,21,17939,Silver,1,Regular
+541,41,Coimbatore,22,5908,Gold,0,Low Value
+542,52,Madurai,28,6896,Regular,0,Low Value
+543,52,Coimbatore,9,10388,Silver,2,High Value
+544,53,Chennai,26,17809,Silver,2,High Value
+545,35,Trichy,9,17643,Regular,2,High Value
+546,56,Coimbatore,15,4750,Regular,0,Low Value
+547,49,Chennai,10,5087,Gold,0,Low Value
+548,41,Coimbatore,24,15300,Gold,2,High Value
+549,40,Trichy,42,4797,Silver,0,Low Value
+550,49,Chennai,8,16824,Regular,2,High Value
+551,54,Trichy,24,3928,Regular,0,Low Value
+552,29,Trichy,16,18452,Regular,1,Regular
+553,30,Chennai,49,17187,Silver,1,Regular
+554,40,Chennai,26,12705,Regular,2,High Value
+555,42,Chennai,27,5582,Regular,0,Low Value
+556,52,Madurai,37,18284,Silver,2,High Value
+557,58,Chennai,4,5563,Gold,0,Low Value
+558,47,Chennai,24,13960,Gold,2,High Value
+559,34,Chennai,19,5012,Silver,0,Low Value
+560,37,Chennai,36,4748,Regular,0,Low Value
+561,42,Coimbatore,39,955,Silver,0,Low Value
+562,39,Madurai,10,2966,Gold,0,Low Value
+563,30,Trichy,25,11934,Gold,1,Regular
+564,36,Chennai,18,16394,Silver,2,High Value
+565,53,Coimbatore,19,16666,Silver,2,High Value
+566,29,Coimbatore,36,3212,Gold,0,Low Value
+567,58,Coimbatore,10,4592,Silver,0,Low Value
+568,36,Trichy,33,15214,Gold,1,Regular
+569,29,Chennai,5,1617,Silver,0,Low Value
+570,26,Madurai,47,16118,Silver,1,Regular
+571,24,Madurai,49,17840,Silver,1,Regular
+572,45,Coimbatore,35,11531,Gold,2,High Value
+573,31,Trichy,44,8310,Silver,1,Regular
+574,48,Trichy,34,11695,Gold,2,High Value
+575,36,Trichy,33,12971,Gold,1,Regular
+576,64,Madurai,21,12843,Silver,2,High Value
+577,33,Coimbatore,17,9424,Silver,1,Regular
+578,22,Chennai,22,11631,Gold,1,Regular
+579,52,Madurai,48,6688,Gold,0,Low Value
+580,29,Coimbatore,37,3411,Regular,0,Low Value
+581,42,Coimbatore,15,1087,Gold,0,Low Value
+582,38,Chennai,35,3421,Regular,0,Low Value
+583,53,Chennai,28,15912,Regular,2,High Value
+584,40,Chennai,7,4715,Regular,0,Low Value
+585,33,Trichy,32,15612,Silver,1,Regular
+586,56,Chennai,11,13246,Silver,2,High Value
+587,62,Coimbatore,10,13754,Gold,2,High Value
+588,59,Chennai,9,3152,Regular,0,Low Value
+589,56,Coimbatore,14,826,Silver,0,Low Value
+590,31,Madurai,13,3860,Silver,0,Low Value
+591,48,Trichy,25,1975,Silver,0,Low Value
+592,22,Madurai,2,14069,Silver,1,Regular
+593,52,Madurai,35,4133,Silver,0,Low Value
+594,40,Coimbatore,7,5543,Regular,0,Low Value
+595,46,Madurai,21,17473,Regular,2,High Value
+596,60,Coimbatore,18,3844,Regular,0,Low Value
+597,28,Chennai,3,17077,Regular,1,Regular
+598,35,Chennai,42,1874,Gold,0,Low Value
+599,64,Coimbatore,39,10751,Regular,2,High Value
+600,29,Chennai,41,1035,Silver,0,Low Value
+601,26,Trichy,49,13495,Regular,1,Regular
+602,27,Madurai,11,3908,Gold,0,Low Value
+603,61,Trichy,39,16815,Silver,2,High Value
+604,34,Madurai,24,11741,Regular,1,Regular
+605,55,Chennai,46,19186,Regular,2,High Value
+606,24,Trichy,19,14476,Regular,1,Regular
+607,63,Chennai,4,5989,Silver,0,Low Value
+608,30,Madurai,26,5154,Silver,1,Regular
+609,57,Coimbatore,38,3968,Gold,0,Low Value
+610,59,Coimbatore,42,16685,Silver,2,High Value
+611,26,Trichy,32,18981,Silver,1,Regular
+612,44,Chennai,39,1942,Regular,0,Low Value
+613,19,Chennai,45,10158,Silver,1,Regular
+614,22,Trichy,46,9201,Regular,1,Regular
+615,46,Coimbatore,36,12597,Regular,2,High Value
+616,54,Madurai,40,4758,Silver,0,Low Value
+617,55,Trichy,37,11481,Gold,2,High Value
+618,36,Madurai,33,7644,Gold,1,Regular
+619,25,Coimbatore,36,7818,Silver,1,Regular
+620,62,Chennai,3,13951,Gold,2,High Value
+621,18,Coimbatore,9,17254,Regular,1,Regular
+622,39,Trichy,8,19639,Regular,2,High Value
+623,34,Chennai,33,11877,Silver,1,Regular
+624,24,Trichy,6,1728,Gold,0,Low Value
+625,42,Trichy,41,486,Gold,0,Low Value
+626,62,Coimbatore,39,6131,Regular,0,Low Value
+627,21,Trichy,4,6539,Silver,1,Regular
+628,53,Coimbatore,13,13492,Gold,2,High Value
+629,23,Chennai,49,18950,Silver,1,Regular
+630,48,Coimbatore,2,2382,Gold,0,Low Value
+631,36,Chennai,5,1956,Regular,0,Low Value
+632,61,Coimbatore,44,15770,Regular,2,High Value
+633,56,Madurai,27,2098,Silver,0,Low Value
+634,44,Madurai,32,5576,Regular,0,Low Value
+635,27,Trichy,21,9528,Gold,1,Regular
+636,43,Coimbatore,8,4769,Regular,0,Low Value
+637,36,Coimbatore,38,12436,Silver,1,Regular
+638,56,Chennai,8,9442,Silver,2,High Value
+639,20,Trichy,3,7164,Silver,1,Regular
+640,62,Coimbatore,44,7546,Gold,0,Low Value
+641,30,Trichy,3,17915,Gold,1,Regular
+642,45,Madurai,22,5724,Gold,0,Low Value
+643,37,Coimbatore,6,7561,Gold,0,Low Value
+644,45,Coimbatore,2,1919,Gold,0,Low Value
+645,25,Trichy,23,10616,Regular,1,Regular
+646,58,Coimbatore,44,13849,Gold,2,High Value
+647,56,Trichy,2,17614,Gold,2,High Value
+648,18,Coimbatore,38,2758,Regular,1,Regular
+649,20,Chennai,17,3600,Gold,1,Regular
+650,30,Trichy,35,2220,Silver,0,Low Value
+651,45,Coimbatore,34,4120,Gold,0,Low Value
+652,42,Madurai,23,10313,Gold,2,High Value
+653,50,Coimbatore,30,3359,Silver,0,Low Value
+654,55,Madurai,8,10181,Silver,2,High Value
+655,23,Madurai,22,1923,Silver,1,Regular
+656,61,Chennai,44,17958,Silver,2,High Value
+657,62,Trichy,36,18726,Gold,2,High Value
+658,49,Coimbatore,5,13567,Silver,2,High Value
+659,62,Chennai,13,19727,Silver,2,High Value
+660,64,Coimbatore,29,7090,Regular,0,Low Value
+661,38,Madurai,31,3234,Silver,0,Low Value
+662,33,Trichy,47,18554,Silver,1,Regular
+663,38,Coimbatore,16,16843,Regular,2,High Value
+664,28,Coimbatore,42,15534,Regular,1,Regular
+665,54,Madurai,30,15107,Gold,2,High Value
+666,53,Coimbatore,16,10333,Regular,2,High Value
+667,52,Coimbatore,12,16478,Gold,2,High Value
+668,36,Madurai,17,1241,Regular,0,Low Value
+669,37,Chennai,16,18119,Regular,2,High Value
+670,35,Madurai,12,10235,Gold,1,Regular
+671,64,Chennai,8,13066,Regular,2,High Value
+672,58,Trichy,20,3461,Gold,0,Low Value
+673,31,Chennai,3,7935,Regular,1,Regular
+674,32,Chennai,16,11272,Silver,1,Regular
+675,48,Trichy,30,16490,Regular,2,High Value
+676,18,Chennai,45,3367,Gold,1,Regular
+677,20,Madurai,23,6664,Regular,1,Regular
+678,33,Chennai,28,19090,Gold,1,Regular
+679,40,Trichy,40,11511,Gold,1,Regular
+680,28,Madurai,5,6006,Silver,1,Regular
+681,29,Trichy,20,16128,Silver,1,Regular
+682,27,Trichy,40,19757,Gold,1,Regular
+683,49,Coimbatore,44,7711,Regular,0,Low Value
+684,33,Coimbatore,1,17397,Gold,1,Regular
+685,25,Trichy,30,2111,Gold,1,Regular
+686,55,Trichy,21,17926,Regular,2,High Value
+687,29,Trichy,20,11346,Regular,1,Regular
+688,41,Coimbatore,6,13890,Regular,2,High Value
+689,45,Coimbatore,22,11838,Regular,2,High Value
+690,25,Chennai,18,14830,Gold,1,Regular
+691,45,Chennai,8,11220,Gold,2,High Value
+692,53,Trichy,39,18313,Silver,2,High Value
+693,43,Madurai,32,8867,Gold,0,Low Value
+694,25,Madurai,33,13803,Regular,1,Regular
+695,45,Coimbatore,16,1029,Silver,0,Low Value
+696,45,Coimbatore,12,12051,Regular,2,High Value
+697,54,Coimbatore,38,15945,Gold,2,High Value
+698,58,Trichy,34,17538,Silver,2,High Value
+699,53,Madurai,14,15847,Regular,2,High Value
+700,44,Chennai,36,5844,Silver,0,Low Value
+701,34,Trichy,33,18384,Silver,1,Regular
+702,26,Chennai,23,9749,Gold,1,Regular
+703,50,Chennai,45,7080,Regular,0,Low Value
+704,37,Trichy,2,7169,Silver,0,Low Value
+705,30,Chennai,41,9691,Silver,1,Regular
+706,45,Madurai,21,19899,Regular,2,High Value
+707,46,Chennai,2,542,Silver,0,Low Value
+708,30,Madurai,27,4752,Silver,1,Regular
+709,63,Madurai,9,9470,Silver,2,High Value
+710,52,Madurai,1,7697,Regular,0,Low Value
+711,23,Coimbatore,11,14425,Regular,1,Regular
+712,35,Chennai,3,4558,Regular,0,Low Value
+713,22,Trichy,23,6691,Regular,1,Regular
+714,64,Trichy,26,16446,Gold,2,High Value
+715,42,Chennai,4,11926,Silver,2,High Value
+716,19,Coimbatore,18,18793,Regular,1,Regular
+717,27,Coimbatore,6,14238,Silver,1,Regular
+718,47,Madurai,35,17394,Silver,2,High Value
+719,62,Chennai,22,2269,Gold,0,Low Value
+720,22,Chennai,43,18656,Regular,1,Regular
+721,50,Trichy,15,6413,Regular,0,Low Value
+722,18,Chennai,22,8415,Silver,1,Regular
+723,35,Coimbatore,37,8136,Regular,1,Regular
+724,49,Chennai,42,885,Silver,0,Low Value
+725,64,Trichy,12,6239,Silver,0,Low Value
+726,28,Madurai,47,6444,Gold,1,Regular
+727,38,Trichy,49,18900,Gold,2,High Value
+728,43,Trichy,42,15073,Gold,2,High Value
+729,42,Madurai,38,5719,Silver,0,Low Value
+730,39,Trichy,18,2036,Regular,0,Low Value
+731,44,Trichy,45,3907,Gold,0,Low Value
+732,30,Chennai,35,7251,Regular,1,Regular
+733,50,Chennai,30,9593,Gold,2,High Value
+734,51,Madurai,24,12455,Gold,2,High Value
+735,58,Chennai,42,3336,Silver,0,Low Value
+736,52,Chennai,30,15948,Gold,2,High Value
+737,18,Trichy,14,2452,Gold,1,Regular
+738,38,Coimbatore,6,2032,Silver,0,Low Value
+739,23,Chennai,3,11013,Regular,1,Regular
+740,45,Coimbatore,16,8656,Gold,0,Low Value
+741,34,Chennai,7,5598,Silver,0,Low Value
+742,22,Chennai,14,10682,Gold,1,Regular
+743,48,Madurai,9,17430,Silver,2,High Value
+744,22,Madurai,15,13965,Regular,1,Regular
+745,55,Madurai,21,9669,Regular,2,High Value
+746,20,Coimbatore,35,17923,Silver,1,Regular
+747,40,Trichy,2,4957,Silver,0,Low Value
+748,54,Chennai,27,440,Silver,0,Low Value
+749,54,Chennai,2,11281,Regular,2,High Value
+750,27,Chennai,35,16866,Gold,1,Regular
+751,27,Coimbatore,18,8591,Regular,1,Regular
+752,36,Madurai,14,238,Silver,0,Low Value
+753,34,Trichy,20,458,Silver,0,Low Value
+754,38,Coimbatore,18,9814,Regular,1,Regular
+755,31,Madurai,10,19940,Silver,1,Regular
+756,26,Coimbatore,25,1727,Regular,0,Low Value
+757,63,Trichy,2,16096,Silver,2,High Value
+758,18,Madurai,25,5104,Gold,1,Regular
+759,62,Coimbatore,33,13383,Gold,2,High Value
+760,30,Trichy,36,6752,Silver,1,Regular
+761,21,Chennai,31,19654,Regular,1,Regular
+762,18,Trichy,14,2251,Gold,1,Regular
+763,57,Chennai,1,9529,Regular,2,High Value
+764,49,Coimbatore,46,14172,Silver,2,High Value
+765,51,Madurai,16,12027,Regular,2,High Value
+766,45,Madurai,46,7005,Gold,0,Low Value
+767,48,Coimbatore,3,19318,Regular,2,High Value
+768,25,Madurai,35,12552,Regular,1,Regular
+769,56,Madurai,41,16312,Silver,2,High Value
+770,43,Chennai,6,19051,Silver,2,High Value
+771,51,Coimbatore,25,1407,Silver,0,Low Value
+772,20,Trichy,13,14952,Gold,1,Regular
+773,29,Chennai,34,2760,Gold,0,Low Value
+774,18,Coimbatore,8,10503,Silver,1,Regular
+775,61,Chennai,21,10338,Silver,2,High Value
+776,22,Trichy,34,6307,Gold,1,Regular
+777,47,Trichy,4,19646,Gold,2,High Value
+778,47,Coimbatore,25,1240,Gold,0,Low Value
+779,34,Trichy,15,1808,Gold,0,Low Value
+780,64,Chennai,4,3730,Silver,0,Low Value
+781,40,Trichy,45,19695,Gold,2,High Value
+782,32,Chennai,12,10585,Silver,1,Regular
+783,54,Chennai,32,12121,Regular,2,High Value
+784,38,Trichy,32,16959,Regular,2,High Value
+785,31,Coimbatore,28,7784,Gold,1,Regular
+786,19,Madurai,13,1307,Regular,1,Regular
+787,28,Trichy,31,13431,Regular,1,Regular
+788,56,Chennai,14,2060,Regular,0,Low Value
+789,55,Chennai,20,657,Gold,0,Low Value
+790,51,Trichy,18,15983,Gold,2,High Value
+791,55,Coimbatore,29,13993,Regular,2,High Value
+792,51,Coimbatore,6,982,Silver,0,Low Value
+793,35,Chennai,32,4861,Regular,0,Low Value
+794,47,Chennai,29,5967,Gold,0,Low Value
+795,32,Coimbatore,43,12969,Gold,1,Regular
+796,44,Madurai,2,7266,Gold,0,Low Value
+797,51,Trichy,23,13082,Regular,2,High Value
+798,55,Chennai,19,8029,Silver,0,Low Value
+799,50,Chennai,31,5447,Gold,0,Low Value
+800,41,Coimbatore,5,7369,Gold,0,Low Value
+801,32,Trichy,19,13627,Regular,1,Regular
+802,47,Coimbatore,34,2554,Silver,0,Low Value
+803,59,Trichy,10,18430,Regular,2,High Value
+804,34,Trichy,25,13091,Gold,1,Regular
+805,22,Trichy,2,2908,Silver,1,Regular
+806,46,Chennai,11,6742,Silver,0,Low Value
+807,21,Madurai,31,3925,Gold,1,Regular
+808,27,Coimbatore,15,3636,Silver,0,Low Value
+809,34,Madurai,9,15409,Silver,1,Regular
+810,27,Coimbatore,23,3902,Regular,1,Regular
+811,34,Trichy,19,18454,Gold,1,Regular
+812,37,Chennai,9,6242,Gold,0,Low Value
+813,41,Madurai,35,19303,Gold,2,High Value
+814,22,Chennai,21,9194,Gold,1,Regular
+815,51,Coimbatore,9,464,Gold,0,Low Value
+816,23,Chennai,28,19603,Silver,1,Regular
+817,19,Chennai,46,15788,Regular,1,Regular
+818,30,Madurai,7,1963,Gold,0,Low Value
+819,60,Trichy,16,16599,Regular,2,High Value
+820,60,Chennai,16,7184,Regular,0,Low Value
+821,28,Trichy,33,8116,Silver,1,Regular
+822,64,Coimbatore,4,2484,Gold,0,Low Value
+823,40,Chennai,4,15172,Silver,2,High Value
+824,33,Madurai,39,4035,Gold,0,Low Value
+825,48,Coimbatore,40,13227,Silver,2,High Value
+826,28,Coimbatore,17,14582,Regular,1,Regular
+827,33,Madurai,37,7842,Gold,1,Regular
+828,25,Chennai,39,16265,Regular,1,Regular
+829,21,Chennai,29,2590,Regular,1,Regular
+830,57,Coimbatore,36,13424,Silver,2,High Value
+831,21,Chennai,38,18208,Gold,1,Regular
+832,42,Trichy,39,19251,Regular,2,High Value
+833,20,Madurai,37,1237,Silver,1,Regular
+834,49,Trichy,35,3520,Gold,0,Low Value
+835,20,Chennai,7,5945,Gold,1,Regular
+836,44,Coimbatore,27,4006,Regular,0,Low Value
+837,46,Madurai,28,19437,Gold,2,High Value
+838,49,Chennai,22,12513,Regular,2,High Value
+839,36,Chennai,14,376,Gold,0,Low Value
+840,38,Coimbatore,7,18483,Silver,2,High Value
+841,22,Coimbatore,37,17711,Regular,1,Regular
+842,35,Trichy,22,6437,Regular,0,Low Value
+843,45,Madurai,5,12044,Gold,2,High Value
+844,59,Madurai,2,16006,Gold,2,High Value
+845,39,Coimbatore,27,17179,Regular,2,High Value
+846,38,Trichy,21,12406,Gold,1,Regular
+847,23,Madurai,38,10603,Silver,1,Regular
+848,18,Coimbatore,15,19325,Gold,1,Regular
+849,22,Chennai,21,4308,Silver,1,Regular
+850,58,Madurai,10,11690,Silver,2,High Value
+851,29,Trichy,23,10986,Silver,1,Regular
+852,43,Trichy,39,12966,Silver,2,High Value
+853,63,Trichy,5,1188,Silver,0,Low Value
+854,51,Chennai,1,3463,Gold,0,Low Value
+855,31,Madurai,13,124,Silver,0,Low Value
+856,43,Madurai,21,9864,Gold,2,High Value
+857,62,Chennai,26,10059,Silver,2,High Value
+858,44,Madurai,45,13035,Regular,2,High Value
+859,26,Chennai,21,8168,Silver,1,Regular
+860,43,Chennai,18,18719,Regular,2,High Value
+861,64,Chennai,37,7395,Silver,0,Low Value
+862,39,Trichy,45,8492,Silver,1,Regular
+863,64,Madurai,32,11490,Silver,2,High Value
+864,47,Chennai,36,8548,Regular,0,Low Value
+865,60,Madurai,17,10533,Regular,2,High Value
+866,34,Trichy,35,15138,Silver,1,Regular
+867,43,Chennai,49,19659,Gold,2,High Value
+868,53,Coimbatore,11,11628,Silver,2,High Value
+869,18,Trichy,21,15843,Regular,1,Regular
+870,25,Coimbatore,26,8705,Silver,1,Regular
+871,52,Madurai,4,2114,Regular,0,Low Value
+872,32,Madurai,34,1481,Regular,0,Low Value
+873,64,Trichy,48,1198,Regular,0,Low Value
+874,39,Madurai,18,19910,Silver,2,High Value
+875,31,Coimbatore,40,9201,Regular,1,Regular
+876,43,Chennai,35,287,Regular,0,Low Value
+877,45,Chennai,41,12048,Silver,2,High Value
+878,40,Chennai,29,10307,Regular,1,Regular
+879,31,Trichy,29,2192,Silver,0,Low Value
+880,41,Madurai,38,18614,Regular,2,High Value
+881,19,Coimbatore,42,5342,Gold,1,Regular
+882,62,Madurai,21,8649,Gold,2,High Value
+883,43,Madurai,42,5285,Regular,0,Low Value
+884,31,Madurai,13,15371,Gold,1,Regular
+885,24,Chennai,49,5876,Silver,1,Regular
+886,20,Coimbatore,41,12549,Gold,1,Regular
+887,64,Coimbatore,17,7923,Regular,0,Low Value
+888,40,Madurai,9,15817,Regular,2,High Value
+889,63,Chennai,41,7455,Silver,0,Low Value
+890,60,Chennai,1,6565,Regular,0,Low Value
+891,64,Coimbatore,2,12837,Silver,2,High Value
+892,62,Chennai,48,17981,Gold,2,High Value
+893,35,Chennai,29,13424,Gold,1,Regular
+894,55,Chennai,33,10450,Silver,2,High Value
+895,52,Trichy,10,2655,Silver,0,Low Value
+896,32,Madurai,40,3051,Regular,0,Low Value
+897,42,Coimbatore,21,17722,Gold,2,High Value
+898,54,Coimbatore,28,4827,Silver,0,Low Value
+899,45,Trichy,11,5786,Gold,0,Low Value
+900,27,Madurai,34,3801,Silver,1,Regular
+901,56,Coimbatore,8,2880,Gold,0,Low Value
+902,34,Chennai,22,18072,Regular,1,Regular
+903,56,Coimbatore,8,2468,Gold,0,Low Value
+904,39,Chennai,49,15692,Gold,2,High Value
+905,43,Trichy,15,536,Gold,0,Low Value
+906,61,Chennai,17,2928,Gold,0,Low Value
+907,42,Coimbatore,23,1656,Gold,0,Low Value
+908,34,Coimbatore,24,13464,Regular,1,Regular
+909,30,Coimbatore,45,15161,Silver,1,Regular
+910,37,Trichy,19,10676,Gold,1,Regular
+911,42,Trichy,5,16666,Regular,2,High Value
+912,21,Madurai,32,7290,Gold,1,Regular
+913,27,Coimbatore,44,5665,Gold,1,Regular
+914,20,Chennai,1,15469,Silver,1,Regular
+915,58,Trichy,23,1689,Gold,0,Low Value
+916,62,Coimbatore,37,259,Regular,0,Low Value
+917,35,Coimbatore,8,12245,Regular,1,Regular
+918,64,Trichy,13,15473,Silver,2,High Value
+919,53,Madurai,8,6655,Gold,0,Low Value
+920,64,Trichy,23,16337,Regular,2,High Value
+921,39,Trichy,43,9303,Gold,1,Regular
+922,51,Chennai,1,8344,Gold,0,Low Value
+923,64,Chennai,45,14843,Gold,2,High Value
+924,25,Madurai,24,13433,Silver,1,Regular
+925,57,Coimbatore,35,13441,Gold,2,High Value
+926,61,Trichy,24,18791,Regular,2,High Value
+927,36,Madurai,17,1328,Gold,0,Low Value
+928,59,Chennai,5,5690,Regular,0,Low Value
+929,58,Trichy,20,5685,Gold,0,Low Value
+930,54,Coimbatore,21,9327,Regular,2,High Value
+931,23,Chennai,40,6146,Regular,1,Regular
+932,43,Chennai,31,12337,Gold,2,High Value
+933,51,Chennai,46,15749,Gold,2,High Value
+934,62,Madurai,36,5045,Regular,0,Low Value
+935,23,Coimbatore,11,8027,Silver,1,Regular
+936,54,Trichy,15,12741,Gold,2,High Value
+937,50,Madurai,19,16098,Silver,2,High Value
+938,39,Madurai,7,13486,Gold,2,High Value
+939,38,Madurai,28,7116,Gold,0,Low Value
+940,23,Chennai,43,14127,Gold,1,Regular
+941,23,Coimbatore,5,16020,Gold,1,Regular
+942,21,Madurai,5,13852,Silver,1,Regular
+943,47,Trichy,30,18368,Gold,2,High Value
+944,28,Coimbatore,32,18293,Regular,1,Regular
+945,47,Trichy,8,3267,Regular,0,Low Value
+946,48,Coimbatore,10,12089,Silver,2,High Value
+947,41,Trichy,38,14187,Gold,2,High Value
+948,26,Chennai,47,2537,Regular,1,Regular
+949,20,Madurai,32,15375,Silver,1,Regular
+950,48,Trichy,48,5376,Gold,0,Low Value
+951,57,Coimbatore,28,8959,Regular,2,High Value
+952,54,Madurai,17,7918,Regular,0,Low Value
+953,53,Madurai,31,4828,Silver,0,Low Value
+954,41,Coimbatore,8,19108,Gold,2,High Value
+955,48,Trichy,40,5838,Gold,0,Low Value
+956,23,Chennai,25,5893,Regular,1,Regular
+957,19,Chennai,9,4623,Regular,1,Regular
+958,37,Trichy,2,5671,Regular,0,Low Value
+959,45,Madurai,15,16309,Gold,2,High Value
+960,28,Madurai,3,15346,Silver,1,Regular
+961,21,Madurai,49,10480,Silver,1,Regular
+962,32,Madurai,36,2324,Gold,0,Low Value
+963,23,Trichy,4,8489,Silver,1,Regular
+964,47,Madurai,14,16027,Regular,2,High Value
+965,55,Coimbatore,41,11784,Silver,2,High Value
+966,19,Madurai,41,10740,Silver,1,Regular
+967,32,Chennai,25,8762,Silver,1,Regular
+968,28,Madurai,10,6461,Regular,1,Regular
+969,25,Trichy,21,2048,Gold,0,Low Value
+970,43,Chennai,36,12191,Regular,2,High Value
+971,62,Trichy,12,12092,Gold,2,High Value
+972,61,Trichy,27,6418,Gold,0,Low Value
+973,22,Chennai,40,12280,Gold,1,Regular
+974,23,Trichy,2,334,Silver,0,Low Value
+975,43,Trichy,13,15472,Silver,2,High Value
+976,21,Madurai,32,622,Gold,1,Regular
+977,36,Coimbatore,31,12818,Gold,1,Regular
+978,37,Trichy,16,9921,Silver,1,Regular
+979,50,Trichy,32,5932,Regular,0,Low Value
+980,37,Trichy,32,12920,Gold,1,Regular
+981,29,Madurai,34,16311,Regular,1,Regular
+982,64,Coimbatore,11,7222,Silver,0,Low Value
+983,18,Chennai,10,5942,Gold,1,Regular
+984,43,Madurai,15,1416,Regular,0,Low Value
+985,31,Madurai,17,13300,Regular,1,Regular
+986,55,Coimbatore,40,17608,Regular,2,High Value
+987,54,Coimbatore,18,15306,Silver,2,High Value
+988,28,Madurai,9,19071,Silver,1,Regular
+989,53,Chennai,25,1478,Regular,0,Low Value
+990,30,Madurai,40,19858,Regular,1,Regular
+991,60,Coimbatore,14,1619,Silver,0,Low Value
+992,20,Chennai,25,8035,Regular,1,Regular
+993,50,Coimbatore,22,6193,Regular,0,Low Value
+994,23,Chennai,30,5455,Silver,1,Regular
+995,27,Trichy,20,9183,Regular,1,Regular
+996,22,Coimbatore,21,5674,Regular,1,Regular
+997,40,Coimbatore,44,13424,Regular,2,High Value
+998,27,Madurai,32,2357,Silver,0,Low Value
+999,61,Coimbatore,46,13511,Regular,2,High Value
+1000,19,Coimbatore,49,15333,Silver,1,Regular

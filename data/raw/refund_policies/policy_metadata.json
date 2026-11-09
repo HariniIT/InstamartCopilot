@@ -1,0 +1,32 @@
+[
+    {
+        "policy_id": "REF001",
+        "title": "General Refund Policy",
+        "category": "General",
+        "content": "\nINSTAMART GENERAL REFUND POLICY\n\n1. Customers can request a refund for eligible orders.\n2. Refund requests must include a valid order ID.\n3. Refund eligibility depends on order status and issue type.\n4. Duplicate refund requests may be rejected.\n5. Refund approval is subject to verification.\n6. Customers will receive a refund status update.\n7. If a request cannot be verified, it must be reviewed by support.\n\nThese are demonstration policies for the Instamart Copilot project.\n"
+    },
+    {
+        "policy_id": "REF002",
+        "title": "Damaged Product Refund Policy",
+        "category": "Product Quality",
+        "content": "\nINSTAMART DAMAGED PRODUCT REFUND POLICY\n\n1. Customers should report damaged products with their order ID.\n2. Customers should provide photographs of the damaged product.\n3. The support team must verify the submitted evidence.\n4. Eligible damaged products can receive a refund.\n5. Refund approval depends on verification.\n6. If the product is unsafe to consume, customers should not consume it.\n7. Unverified damage claims must be escalated to human support.\n\nThese are demonstration policies for the Instamart Copilot project.\n"
+    },
+    {
+        "policy_id": "REF003",
+        "title": "Missing Item Refund Policy",
+        "category": "Missing Item",
+        "content": "\nINSTAMART MISSING ITEM REFUND POLICY\n\n1. Customers can report missing items from their order.\n2. Customers must provide the order ID.\n3. The support team should compare the ordered items with delivery records.\n4. Verified missing items may qualify for a partial refund.\n5. The refund amount depends on the missing item's price.\n6. Multiple missing item complaints require manual verification.\n7. Unresolved cases must be escalated to human support.\n\nThese are demonstration policies for the Instamart Copilot project.\n"
+    },
+    {
+        "policy_id": "REF004",
+        "title": "Payment Failure Refund Policy",
+        "category": "Payment",
+        "content": "\nINSTAMART PAYMENT FAILURE REFUND POLICY\n\n1. Customers should provide the order ID or transaction reference.\n2. Payment status must be checked before approving a refund.\n3. If money was deducted but the order was not created,\n   the transaction must be verified.\n4. Duplicate payment claims require transaction verification.\n5. Refund approval depends on the verified payment status.\n6. If payment status is unclear, the case must be escalated.\n7. The AI assistant must never claim that a refund was completed\n   without confirmation from the payment system.\n\nThese are demonstration policies for the Instamart Copilot project.\n"
+    },
+    {
+        "policy_id": "REF005",
+        "title": "Refund Escalation Policy",
+        "category": "Escalation",
+        "content": "\nINSTAMART REFUND ESCALATION POLICY\n\n1. Unverified refund requests must be sent to human support.\n2. High-priority customer complaints should be reviewed quickly.\n3. Repeated payment failures require manual investigation.\n4. Customers should receive an explanation of escalation status.\n5. The AI assistant must not invent refund approval decisions.\n6. The system should maintain a record of customer complaints.\n7. Human support has final authority over unresolved refund cases.\n\nThese are demonstration policies for the Instamart Copilot project.\n"
+    }
+]

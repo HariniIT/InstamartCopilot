@@ -1,0 +1,14 @@
+General Refund Policy
+
+
+INSTAMART GENERAL REFUND POLICY
+
+1. Customers can request a refund for eligible orders.
+2. Refund requests must include a valid order ID.
+3. Refund eligibility depends on order status and issue type.
+4. Duplicate refund requests may be rejected.
+5. Refund approval is subject to verification.
+6. Customers will receive a refund status update.
+7. If a request cannot be verified, it must be reviewed by support.
+
+These are demonstration policies for the Instamart Copilot project.

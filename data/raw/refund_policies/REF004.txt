@@ -1,0 +1,16 @@
+Payment Failure Refund Policy
+
+
+INSTAMART PAYMENT FAILURE REFUND POLICY
+
+1. Customers should provide the order ID or transaction reference.
+2. Payment status must be checked before approving a refund.
+3. If money was deducted but the order was not created,
+   the transaction must be verified.
+4. Duplicate payment claims require transaction verification.
+5. Refund approval depends on the verified payment status.
+6. If payment status is unclear, the case must be escalated.
+7. The AI assistant must never claim that a refund was completed
+   without confirmation from the payment system.
+
+These are demonstration policies for the Instamart Copilot project.

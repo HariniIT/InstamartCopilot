@@ -1,0 +1,14 @@
+Damaged Product Refund Policy
+
+
+INSTAMART DAMAGED PRODUCT REFUND POLICY
+
+1. Customers should report damaged products with their order ID.
+2. Customers should provide photographs of the damaged product.
+3. The support team must verify the submitted evidence.
+4. Eligible damaged products can receive a refund.
+5. Refund approval depends on verification.
+6. If the product is unsafe to consume, customers should not consume it.
+7. Unverified damage claims must be escalated to human support.
+
+These are demonstration policies for the Instamart Copilot project.
